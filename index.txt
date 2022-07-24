@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lista de cursos Alura Devops</title>
+    <title>Lista de Cursos Alura Devops</title>
 </head>
 <body>
     <ul>
